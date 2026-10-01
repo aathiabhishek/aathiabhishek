@@ -1,252 +1,502 @@
-# 👋 Hi, I'm Aathi Abhishek Thiagarajan
+<div align="center">
 
-### AI/ML Engineer | Machine Learning • GenAI • Computer Vision
+# `AATHI // AI SYSTEMS`
 
-I build **end-to-end machine learning systems** — from data preprocessing and model development to evaluation, retrieval systems, and interactive applications.
+### `J.A.R.V.I.S. INTERFACE`
 
-My work focuses on **Machine Learning, Deep Learning, Generative AI, Computer Vision, RAG systems, and predictive analytics**.
+**ARTIFICIAL INTELLIGENCE • MACHINE LEARNING • GENERATIVE AI**
 
-Currently focused on building production-oriented AI/ML solutions and growing toward **AI/ML Engineer roles**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;AI%2FML+ENGINEER;MACHINE+LEARNING+SYSTEMS;GENERATIVE+AI+%7C+RAG+%7C+COMPUTER+VISION;BUILDING+INTELLIGENT+SYSTEMS" />
+
+<br>
+
+`[ SYSTEM ONLINE ]`    `[ AI CORE ACTIVE ]`    `[ ML ENGINE READY ]`
+
+</div>
 
 ---
 
-## 🧠 What I Work On
+<div align="center">
+
+## `◉ SYSTEM // 01`
+
+### `IDENTITY`
+
+</div>
 
 ```text
-Machine Learning      → Predictive Modeling • Anomaly Detection • Classification
-Deep Learning         → CNNs • RNNs • Transformers
-Generative AI         → LLMs • RAG • Hybrid Retrieval
-Computer Vision       → YOLO • Image Classification • Object Detection
-Data & Analytics      → Python • SQL • Feature Engineering
-ML Engineering        → Model Pipelines • Evaluation • Deployment
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  USER                  AATHI ABHISHEK THIAGARAJAN            │
+│  DESIGNATION           AI / ML ENGINEER                      │
+│  PRIMARY DOMAIN        ARTIFICIAL INTELLIGENCE               │
+│  SPECIALIZATION        MACHINE LEARNING                      │
+│  SECONDARY SYSTEMS    GENAI • COMPUTER VISION • RAG         │
+│  CURRENT MODE         BUILDING + LEARNING                    │
+│  SYSTEM STATUS        ● ONLINE                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+I build **end-to-end AI/ML systems** — from data preprocessing and feature engineering to model development, evaluation, retrieval systems, and interactive applications.
 
-## 🛠️ Tech Stack
+My primary interests are:
 
-### Languages & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-
-### Machine Learning & Deep Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-
-### Generative AI & NLP
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=chainlink\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-4285F4?style=flat-square)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-NLP-8A2BE2?style=flat-square)
-
-**LLMs:** Mistral 7B • Llama.cpp • RAG • BM25 • Hybrid Retrieval
-
-### Computer Vision
-
-**YOLOv8 / YOLOv9** • CNNs • Image Classification • Object Detection
-
-### Development & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+**Machine Learning · Deep Learning · Generative AI · RAG · Computer Vision · Anomaly Detection · ML Engineering**
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
 
-## 🤖 Local AI Knowledge Assistant
+## `◉ SYSTEM // 02`
 
-**Local LLM + RAG system for document-aware question answering**
+### `CORE CAPABILITIES`
 
-A privacy-focused AI assistant built around a locally running **Mistral 7B** model.
+</div>
 
-### Highlights
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-* 🧠 Local **Mistral 7B** inference using `llama.cpp`
-* 🔎 Hybrid retrieval using **FAISS + BM25**
-* 🧩 Semantic search with **Sentence Transformers**
-* 📄 Supports PDF, DOCX, TXT and Markdown documents
-* ✂️ Document ingestion, chunking and context construction
-* 📚 Source-aware responses
-* 🎛️ Configurable retrieval depth
-* 💬 General chat mode without document upload
-* 🛡️ Retrieval and response guardrails
+### `01`
 
-**Stack:** Python • Streamlit • Mistral 7B • Llama.cpp • FAISS • BM25 • Sentence Transformers
+**MACHINE LEARNING**
 
----
+Predictive Modeling
+Classification
+Feature Engineering
+Anomaly Detection
 
-## 🏥 Surgical Object Detection
+</td>
 
-**Deep learning computer vision system for surgical image analysis**
+<td align="center" width="25%">
 
-Built an object detection pipeline using YOLO for identifying multiple surgical object classes.
+### `02`
 
-### Results
+**GENERATIVE AI**
 
-* 📷 **3,009 images**
-* 🎯 **4 object classes**
-* ⚡ YOLOv8
-* 📊 **mAP@50: 0.9901**
-* 📊 **mAP@50–95: 0.9306**
-* 🖼️ 640px image resolution
+LLMs
+RAG
+Hybrid Retrieval
+Semantic Search
 
-**Stack:** Python • PyTorch • YOLOv8 • Computer Vision
+</td>
 
----
+<td align="center" width="25%">
 
-## 🧠 Brain MRI Classification
+### `03`
 
-**Deep learning model for multi-class brain MRI classification**
+**COMPUTER VISION**
 
-Developed an image classification pipeline using transfer learning to classify brain MRI scans across four categories.
+Object Detection
+Image Classification
+YOLO
+Transfer Learning
 
-### Results
+</td>
 
-* 🧠 **5,712 training images**
-* 🧪 **1,311 test images**
-* 🎯 **4 classes**
-* 🔥 MobileNetV2 transfer learning
-* 📈 **~86% accuracy**
-* 🩺 Strong recall for pituitary cases
+<td align="center" width="25%">
 
-**Stack:** Python • TensorFlow • Keras • MobileNetV2 • Streamlit
+### `04`
 
----
+**ML ENGINEERING**
 
-## ⭐ Yelp Sentiment Analyzer
+Model Pipelines
+Evaluation
+Data Processing
+Applications
 
-**Deep learning NLP application for sentiment classification**
-
-A Streamlit application comparing multiple neural network architectures for Yelp review sentiment analysis.
-
-### Models
-
-```text
-Simple RNN     → "Simple Reader"
-CNN            → "Quick Scanner"
-BiLSTM         → "Deep Reader"
-```
-
-The application classifies reviews into:
-
-🟥 Negative
-🟨 Neutral
-🟩 Positive
-
-**Stack:** Python • TensorFlow • Keras • NLP • Streamlit
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 Machine Learning Experience
+<div align="center">
 
-### Predictive Maintenance & Anomaly Detection
+## `◉ SYSTEM // 03`
 
-Worked on a wind turbine SCADA anomaly detection project involving large-scale telemetry data.
+### `TECHNOLOGY MATRIX`
 
-```text
-1.19M+ telemetry records
-84 operational features
-Multiple anomaly detection approaches
-Statistical + deep learning methods
-Interactive Streamlit monitoring dashboard
-```
+</div>
 
-Benchmarked approaches including:
-
-**GDN • MTAD-GAT • PatchTST • LSTM Autoencoders**
-
-> Due to project confidentiality, implementation details and proprietary data are not publicly available.
-
----
-
-# 🔬 My ML Engineering Workflow
-
-```text
-                ┌──────────────────┐
-                │   Raw Data       │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Data Cleaning    │
-                │ & Preprocessing  │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Feature          │
-                │ Engineering      │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Model Training   │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Evaluation       │
-                └────────┬─────────┘
-                         ↓
-                ┌──────────────────┐
-                │ Application /    │
-                │ Deployment       │
-                └──────────────────┘
-```
-
-I enjoy working across the entire pipeline rather than focusing only on model training.
-
----
-
-# 📈 GitHub Statistics
+### `LANGUAGES`
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aathiabhishek&show_icons=true&theme=transparent&hide_border=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathiabhishek&layout=compact&theme=transparent&hide_border=true" height="165">
+<img src="https://skillicons.dev/icons?i=python,sql" />
 
 </p>
 
+### `AI / ML`
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aathiabhishek&theme=transparent&hide_border=true">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+</p>
+
+`PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy`
+
+### `GENERATIVE AI`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+`Mistral 7B` · `Llama.cpp` · `LangChain` · `FAISS` · `BM25` · `Sentence Transformers` · `RAG`
+
+### `COMPUTER VISION`
+
+`YOLOv8` · `YOLOv9` · `CNNs` · `Image Classification` · `Object Detection`
+
+### `DEVELOPMENT`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,streamlit,vscode" />
 
 </p>
 
 ---
 
-# 🎯 Currently
+<div align="center">
+
+## `◉ SYSTEM // 04`
+
+### `ACTIVE PROJECTS`
+
+</div>
+
+---
+
+## `SYSTEM 01 // LOCAL AI KNOWLEDGE ASSISTANT`
 
 ```text
-🔹 Building AI/ML projects
-🔹 Strengthening ML system design
-🔹 Improving SQL for ML engineering
-🔹 Exploring MLOps & cloud technologies
-🔹 Preparing for AI/ML Engineer opportunities
+STATUS       ● OPERATIONAL
+TYPE         LOCAL AI + RAG
+CORE         MISTRAL 7B
+INFERENCE    LLAMA.CPP
+RETRIEVAL    FAISS + BM25
+EMBEDDINGS   SENTENCE TRANSFORMERS
+INTERFACE    STREAMLIT
+```
+
+A local AI assistant capable of both **general conversation** and **document-aware question answering**.
+
+### System Features
+
+* Local **Mistral 7B** inference
+* PDF / DOCX / TXT / Markdown ingestion
+* Document chunking and context construction
+* Semantic retrieval using Sentence Transformers
+* Hybrid retrieval using **FAISS + BM25**
+* Source-aware responses
+* Configurable number of retrieved chunks
+* General chat mode without document upload
+* Retrieval and response guardrails
+
+> `OBJECTIVE // Build a private, local-first AI knowledge system.`
+
+**TECH:** `Python` `Mistral 7B` `Llama.cpp` `FAISS` `BM25` `Sentence Transformers` `Streamlit`
+
+<a href="https://github.com/aathiabhishek/local-ai-knowledge-assistant">
+<img src="https://img.shields.io/badge/ACCESS_SYSTEM-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+## `SYSTEM 02 // SURGICAL VISION ENGINE`
+
+```text
+STATUS       ● OPERATIONAL
+TYPE         COMPUTER VISION
+MODEL        YOLOv8
+DATA         3,009 IMAGES
+CLASSES      4
+mAP@50       0.9901
+mAP@50-95    0.9306
+```
+
+A deep learning object detection pipeline designed to identify multiple surgical objects.
+
+### Performance
+
+```text
+┌────────────────────────────────────┐
+│                                    │
+│  DATASET            3,009 IMAGES   │
+│  OBJECT CLASSES     4              │
+│  mAP@50             99.01%         │
+│  mAP@50-95          93.06%         │
+│                                    │
+└────────────────────────────────────┘
+```
+
+**TECH:** `Python` `PyTorch` `YOLOv8` `Computer Vision`
+
+<a href="https://github.com/aathiabhishek">
+<img src="https://img.shields.io/badge/ACCESS_SYSTEM-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+## `SYSTEM 03 // MRI CLASSIFICATION ENGINE`
+
+```text
+STATUS       ● OPERATIONAL
+TYPE         IMAGE CLASSIFICATION
+MODEL        MOBILENETV2
+TRAIN DATA   5,712 IMAGES
+TEST DATA    1,311 IMAGES
+CLASSES      4
+ACCURACY     ~86%
+```
+
+A transfer-learning based deep learning system for multi-class brain MRI classification.
+
+### Core Architecture
+
+```text
+MRI IMAGE
+    ↓
+PREPROCESSING
+    ↓
+MOBILENETV2
+    ↓
+CLASSIFICATION HEAD
+    ↓
+4-CLASS PREDICTION
+```
+
+**TECH:** `Python` `TensorFlow` `Keras` `MobileNetV2` `Streamlit`
+
+---
+
+## `SYSTEM 04 // YELP SENTIMENT ENGINE`
+
+```text
+STATUS       ● OPERATIONAL
+TYPE         NLP / SENTIMENT ANALYSIS
+FRAMEWORK    TENSORFLOW / KERAS
+INTERFACE    STREAMLIT
+OUTPUT       NEGATIVE / NEUTRAL / POSITIVE
+```
+
+A deep learning NLP application comparing multiple neural architectures for sentiment classification.
+
+### Neural Modules
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│  SIMPLE READER      → Simple RNN           │
+│  QUICK SCANNER      → CNN                  │
+│  DEEP READER        → BiLSTM               │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+The application provides an interactive interface for analyzing Yelp reviews and classifying sentiment.
+
+**TECH:** `Python` `TensorFlow` `Keras` `NLP` `RNN` `CNN` `BiLSTM` `Streamlit`
+
+---
+
+<div align="center">
+
+## `◉ SYSTEM // 05`
+
+### `PREDICTIVE MAINTENANCE ENGINE`
+
+</div>
+
+```text
+STATUS          ● RESEARCH / EXPERIENCE
+DOMAIN          WIND TURBINE ANALYTICS
+DATA            1.19M+ SCADA RECORDS
+FEATURES        84 OPERATIONAL FEATURES
+SYSTEM          ANOMALY DETECTION
+```
+
+Worked on a large-scale wind turbine SCADA anomaly detection system focused on identifying abnormal operating behavior.
+
+### Model Benchmark
+
+```text
+GDN
+MTAD-GAT
+PatchTST
+LSTM AUTOENCODER
+STATISTICAL METHODS
+```
+
+### Engineering Pipeline
+
+```text
+SCADA TELEMETRY
+       ↓
+DATA PROCESSING
+       ↓
+FEATURE ENGINEERING
+       ↓
+SEQUENCE CONSTRUCTION
+       ↓
+ANOMALY DETECTION
+       ↓
+MODEL EVALUATION
+       ↓
+MONITORING DASHBOARD
+```
+
+A Streamlit-based monitoring interface was also developed for exploring turbine telemetry and health/risk indicators.
+
+> Due to project confidentiality, proprietary implementation details and project data are not publicly available.
+
+---
+
+<div align="center">
+
+## `◉ SYSTEM // 06`
+
+### `ENGINEERING WORKFLOW`
+
+</div>
+
+```text
+                  ┌─────────────────┐
+                  │    RAW DATA     │
+                  └────────┬────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ DATA PREPROCESSING  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ FEATURE ENGINEERING │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ MODEL DEVELOPMENT  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ MODEL EVALUATION   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ APPLICATION / API   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ MONITORING / ITER. │
+                └─────────────────────┘
+```
+
+### `MY APPROACH`
+
+**Understand → Prepare → Build → Evaluate → Deploy → Improve**
+
+I focus on understanding the **data and problem first**, choosing models based on the problem rather than forcing a specific architecture.
+
+---
+
+<div align="center">
+
+## `◉ SYSTEM // 07`
+
+### `CURRENT DIRECTIVE`
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                    CURRENT OBJECTIVES                        ║
+║                                                              ║
+║   [01] Strengthen Machine Learning Engineering               ║
+║                                                              ║
+║   [02] Build production-oriented AI systems                  ║
+║                                                              ║
+║   [03] Deepen Generative AI + RAG expertise                  ║
+║                                                              ║
+║   [04] Improve ML System Design                              ║
+║                                                              ║
+║   [05] Expand MLOps + Cloud Engineering                      ║
+║                                                              ║
+║   [06] Pursue AI / ML Engineering opportunities              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
 
-<p align="left">
+## `◉ SYSTEM // 08`
+
+### `GITHUB TELEMETRY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=aathiabhishek&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=00000000" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathiabhishek&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&bg_color=00000000" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=aathiabhishek&hide_border=true&background=00000000&ring=00E5FF&fire=FF3D00&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `◉ SYSTEM // 09`
+
+### `CONNECTION TERMINAL`
+
+<a href="https://aathiabhishek.github.io/aathi-portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
 
 <a href="https://www.linkedin.com/in/aathi-abhishek/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aathiabhishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### Building models. Solving problems. Learning continuously.
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                J.A.R.V.I.S. // SHUTDOWN                  ║
+║                                                            ║
+║             "SYSTEMS ARE BUILT TO EVOLVE."                ║
+║                                                            ║
+║                    ● AI CORE ONLINE                        ║
+║                    ● ML ENGINE ONLINE                      ║
+║                    ● READY FOR NEXT MISSION                ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-</p>
+### `AATHI // AI / ML ENGINEER`
+
+**Machine Learning • Generative AI • Computer Vision**
+
+</div>
