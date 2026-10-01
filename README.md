@@ -1,15 +1,47 @@
+<!-- ========================================================= -->
+
+<!--                    JARVIS GITHUB PROFILE                   -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:07141A,100:001E27&text=AATHI%20ABHISHEK&fontColor=00E5FF&fontSize=42&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20J.A.R.V.I.S.%20CORE&descAlignY=60&descColor=FFFFFF&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=INITIALIZING+J.A.R.V.I.S...;AI+CORE+%5B+ONLINE+%5D;MACHINE+LEARNING+ENGINE+%5B+READY+%5D;GENERATIVE+AI+%5B+ACTIVE+%5D;COMPUTER+VISION+%5B+ACTIVE+%5D;MLOPS+SYSTEMS+%5B+ONLINE+%5D;WELCOME%2C+I'M+AATHI+ABHISHEK." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020406,45:06151B,75:002833,100:020406&text=AATHI%20ABHISHEK&fontSize=48&fontColor=00E5FF&fontAlignY=36&desc=J.A.R.V.I.S.%20%2F%2F%20AI%20SYSTEM%20ONLINE&descAlignY=58&descColor=FFFFFF&animation=fadeIn"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/AI_CORE-ACTIVE-00E5FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ML_ENGINE-READY-00E5FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/GENAI-ACTIVE-00E5FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=INITIALIZING+J.A.R.V.I.S...;NEURAL+CORE+ONLINE;MACHINE+LEARNING+ENGINE+ONLINE;GENERATIVE+AI+SYSTEMS+ONLINE;COMPUTER+VISION+SYSTEMS+ONLINE;MLOPS+INFRASTRUCTURE+READY;WELCOME%2C+AATHI+ABHISHEK." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI_SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=030607"/>
+<img src="https://img.shields.io/badge/ML_ENGINE-ACTIVE-00E5FF?style=for-the-badge&labelColor=030607"/>
+<img src="https://img.shields.io/badge/GENAI-ONLINE-00E5FF?style=for-the-badge&labelColor=030607"/>
+<img src="https://img.shields.io/badge/VISION-ONLINE-00E5FF?style=for-the-badge&labelColor=030607"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`SYSTEM // 01`
+
+# `AI COMMAND CENTER`
+
+**MACHINE LEARNING ENGINEER**
+
+Building intelligent systems across **Machine Learning · Deep Learning · Generative AI · Computer Vision · MLOps**
+
+<br>
+
+<a href="https://aathiabhishek.github.io/aathi-portfolio/">
+<img src="https://img.shields.io/badge/ENTER%20PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aathi-abhishek/">
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
 </div>
 
@@ -17,72 +49,79 @@
 
 <div align="center">
 
-# `J.A.R.V.I.S. // CORE INTERFACE`
+# `◉ SYSTEM // 02`
 
-### `ARTIFICIAL INTELLIGENCE • MACHINE LEARNING • GENERATIVE AI`
-
-> **Building intelligent systems from data to deployment.**
+## `ABOUT THE OPERATOR`
 
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `IDENTITY`
 
 ```text
-╔════════════════════════════════════════════════════════════════════╗
-║                         SYSTEM PROFILE                            ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  USER                 AATHI ABHISHEK THIAGARAJAN                  ║
-║  ROLE                 MACHINE LEARNING ENGINEER                    ║
-║  PRIMARY SYSTEM       MACHINE LEARNING                            ║
-║  CORE SYSTEMS         DEEP LEARNING • GENAI • COMPUTER VISION     ║
-║  ENGINEERING          MLOPS • ETL/ELT • REST APIs                 ║
-║  CURRENT MODE         BUILD • LEARN • ENGINEER                    ║
-║  STATUS               ● ONLINE                                    ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+NAME
+Aathi Abhishek Thiagarajan
+
+ROLE
+Machine Learning Engineer
+
+PRIMARY CORE
+Machine Learning
+
+SECONDARY CORES
+Generative AI
+Computer Vision
+Deep Learning
+MLOps
+
+STATUS
+● ONLINE
 ```
 
----
+</td>
 
-<div align="center">
+<td width="50%" valign="top">
 
-## `◉ SYSTEM // 01`
+### `MISSION`
 
-# `AI CORE`
-
-</div>
-
-I am a **Machine Learning Engineer** focused on developing end-to-end deep learning, NLP, computer vision, and generative AI solutions in Python.
+Build **end-to-end AI systems** that transform complex data into useful, actionable insights.
 
 My work spans:
 
 ```text
-MACHINE LEARNING
-        ↓
+DATA
+ ↓
+ML
+ ↓
 DEEP LEARNING
-        ↓
+ ↓
 GENERATIVE AI
-        ↓
+ ↓
 COMPUTER VISION
-        ↓
-DATA / MLOPS ENGINEERING
-        ↓
-PRODUCTION APPLICATIONS
+ ↓
+DEPLOYMENT
 ```
 
-I enjoy turning complex model outputs and large-scale data into systems that can produce **useful, actionable insights**.
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## `◉ SYSTEM // 02`
+# `◉ SYSTEM // 03`
 
-# `CAPABILITY MATRIX`
+## `NEURAL CORE`
 
 </div>
 
-<table align="center">
+<table>
 <tr>
+
 <td align="center" width="25%">
 
 ### `01`
@@ -90,8 +129,11 @@ I enjoy turning complex model outputs and large-scale data into systems that can
 ## ML
 
 Predictive Modeling
+
 Anomaly Detection
+
 Time-Series Modeling
+
 Model Evaluation
 
 </td>
@@ -103,10 +145,14 @@ Model Evaluation
 ## GENAI
 
 LLMs
+
 RAG
+
 Mistral 7B
+
 LangChain
-FAISS
+
+FAISS / BM25
 
 </td>
 
@@ -117,9 +163,13 @@ FAISS
 ## VISION
 
 YOLOv8
+
 YOLOv9
-CNNs
+
+CNN
+
 Object Detection
+
 Image Classification
 
 </td>
@@ -131,12 +181,17 @@ Image Classification
 ## MLOPS
 
 Docker
+
 Kubernetes
+
 MLflow
+
 GCP / Vertex AI
-CI/CD
+
+REST APIs
 
 </td>
+
 </tr>
 </table>
 
@@ -144,384 +199,509 @@ CI/CD
 
 <div align="center">
 
-## `◉ SYSTEM // 03`
+# `◉ SYSTEM // 04`
 
-# `TECHNOLOGY STACK`
+## `TECHNICAL MATRIX`
 
 </div>
 
-### `LANGUAGES`
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,swift,sql"/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,kubernetes,gcp,mysql,mongodb,git,github,vscode"/>
+
 </p>
 
-### `MACHINE LEARNING / DEEP LEARNING`
+<br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
-</p>
+<table align="center">
+
+<tr>
+
+<td valign="top" width="33%">
+
+### `MACHINE LEARNING`
 
 ```text
-PyTorch • TensorFlow • Keras • Scikit-learn
-CNN • LSTM • Transformers
-Anomaly Detection • Time-Series Modeling
-Hyperparameter Tuning • Cross-Validation
+PyTorch
+TensorFlow
+Keras
+Scikit-learn
+CNN
+LSTM
+Transformers
+Anomaly Detection
+Time-Series Modeling
+Cross Validation
+Hyperparameter Tuning
 ```
+
+</td>
+
+<td valign="top" width="33%">
 
 ### `GENERATIVE AI`
 
 ```text
 Mistral 7B
-Large Language Models
+LLMs
 RAG
 LangChain
 FAISS
+BM25
 Sentence Transformers
 Prompt Engineering
-BM25 Hybrid Retrieval
+Hybrid Retrieval
 ```
 
-### `COMPUTER VISION`
+</td>
+
+<td valign="top" width="33%">
+
+### `VISION / NLP`
 
 ```text
-YOLOv8 • YOLOv9
-Multi-Class Object Detection
+YOLOv8
+YOLOv9
+Object Detection
 Image Augmentation
 COCO → YOLO
-Image Classification
-Real-Time Inference
+NLP Preprocessing
+Tokenization
+Sentiment Classification
 ```
 
-### `DATA + MLOPS`
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### `DATA`
 
 ```text
-GCP • Vertex AI • Kubernetes
-Docker • MLflow • CI/CD
-ETL / ELT Pipelines
-SQL • MySQL • MongoDB
-Pandas • NumPy
-REST APIs
-Git
+Python
+SQL
+Pandas
+NumPy
+MySQL
+MongoDB
+ETL / ELT
 ```
 
-### `APPLICATIONS + TOOLS`
+</td>
+
+<td valign="top">
+
+### `MLOPS`
 
 ```text
-Streamlit • Tableau • Matplotlib
-Seaborn • VS Code • JavaScript • Swift
-```
-
----
-
-<div align="center">
-
-## `◉ SYSTEM // 04`
-
-# `MISSION CONTROL`
-
-</div>
-
-```text
-                         ┌─────────────────┐
-                         │    DATA INPUT   │
-                         └────────┬────────┘
-                                  ↓
-                       ┌────────────────────┐
-                       │  ETL / PROCESSING  │
-                       └─────────┬──────────┘
-                                 ↓
-                       ┌────────────────────┐
-                       │ FEATURE ENGINEERING│
-                       └─────────┬──────────┘
-                                 ↓
-                       ┌────────────────────┐
-                       │  MODEL DEVELOPMENT │
-                       └─────────┬──────────┘
-                                 ↓
-                       ┌────────────────────┐
-                       │    EVALUATION      │
-                       └─────────┬──────────┘
-                                 ↓
-                       ┌────────────────────┐
-                       │ API / APPLICATION  │
-                       └─────────┬──────────┘
-                                 ↓
-                       ┌────────────────────┐
-                       │ MONITOR / IMPROVE  │
-                       └────────────────────┘
-```
-
-### `ENGINEERING DIRECTIVE`
-
-**Understand → Engineer → Train → Evaluate → Deploy → Improve**
-
----
-
-<div align="center">
-
-## `◉ SYSTEM // 05`
-
-# `EXPERIENCE CORE`
-
-</div>
-
-## `KINECTRICS // AI / ML ENGINEER`
-
-```text
-STATUS        ● COMPLETED
-SYSTEM        PREDICTIVE MAINTENANCE
-DATA          1.19M+ SCADA RECORDS
-FEATURES      84 OPERATIONAL FEATURES
-DOMAIN        MULTIVARIATE TIME SERIES
-```
-
-Built an AI-driven predictive maintenance and fault-detection platform using large-scale SCADA telemetry.
-
-### `MODEL BENCHMARK`
-
-```text
-┌─────────────────────────────────────┐
-│ PATCHTST                            │
-│ MTAD-GAT                            │
-│ GDN                                 │
-│ GDFormer                            │
-│ TranAD                              │
-└─────────────────────────────────────┘
-```
-
-### `GENAI INTEGRATION`
-
-Developed a conversational AI application using **LLMs + LangChain** to translate complex multi-sensor anomaly and reconstruction-error outputs into plain-language health insights.
-
-### `DEPLOYMENT`
-
-```text
-REST APIs
 Docker
+Kubernetes
+MLflow
+GCP
+Vertex AI
+CI/CD
+REST APIs
+```
+
+</td>
+
+<td valign="top">
+
+### `TOOLS`
+
+```text
 Streamlit
-Production-oriented ML services
-Real-time telemetry dashboard
+Tableau
+Matplotlib
+Seaborn
+VS Code
+Git
+GitHub
 ```
 
-> `CLASSIFICATION // CONFIDENTIAL PROJECT`
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# `◉ SYSTEM // 05`
+
+## `EXPERIENCE ENGINE`
+
+</div>
+
+### `KINECTRICS // AI / ML ENGINEER`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  SYSTEM            PREDICTIVE MAINTENANCE                   │
+│  DATA              1.19M+ SCADA RECORDS                     │
+│  FEATURES          84 OPERATIONAL FEATURES                  │
+│  MODELS            PATCHTST / MTAD-GAT / GDN /              │
+│                    GDFORMER / TRANAD                        │
+│  GENAI             LLM + LANGCHAIN                          │
+│  DEPLOYMENT        REST APIs + DOCKER + STREAMLIT            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**SYSTEM FUNCTION**
+
+Built an AI-driven predictive maintenance and fault-detection platform for multivariate time-series telemetry.
+
+**DEEP LEARNING**
+
+Benchmarked multiple anomaly-detection architectures including **PatchTST, MTAD-GAT, GDN, GDFormer and TranAD**.
+
+**GENERATIVE AI**
+
+Developed a conversational AI layer using LLMs and LangChain to translate complex sensor/anomaly outputs into understandable health insights.
+
+**MLOPS**
+
+Designed production-oriented backend frameworks and served ML models through REST APIs and Streamlit dashboards.
+
+**MONITORING**
+
+Built real-time telemetry monitoring for pressure, vibration and temperature signals.
+
+> `PROJECT CLASSIFICATION // CONFIDENTIAL`
 >
-> Proprietary implementation details and project data are intentionally not exposed.
+> Proprietary implementation details and data are not publicly exposed.
+
+---
+
+### `OWUJUPE // FULL STACK & iOS DEVELOPER`
+
+```text
+SYSTEM       DATA / BACKEND INFRASTRUCTURE
+MODE         FULL STACK
+CORE         EXPRESS.JS / MYSQL / MONGODB
+SECONDARY    SWIFT / FIREBASE
+```
+
+Built backend data pipelines for high-volume API feeds, migrated legacy databases to MySQL, and developed secure authentication infrastructure.
+
+---
+
+### `SIMSONA // SYSTEM ADMINISTRATION`
+
+```text
+SYSTEM       INFRASTRUCTURE
+MODE         SYSTEM ADMINISTRATION
+CORE         MYSQL / NETWORK ADMINISTRATION
+```
+
+Managed enterprise computing infrastructure and automated deployment workflows across production databases.
 
 ---
 
 <div align="center">
 
-## `◉ SYSTEM // 06`
+# `◉ SYSTEM // 06`
 
-# `PROJECT ARCHIVE`
+## `PROJECT HOLOGRAM`
 
 </div>
 
----
+<table>
 
-# `01 // RAG KNOWLEDGE CORE`
+<tr>
 
-### `RETRIEVAL-AUGMENTED GENERATION CHATBOT`
+<td width="50%" valign="top">
 
-```text
-STATUS        ● OPERATIONAL
-CORE          MISTRAL 7B
-VECTOR SEARCH FAISS
-RETRIEVAL     BM25 + VECTOR
-EMBEDDINGS    SENTENCE TRANSFORMERS
-DOCUMENTS     1,000+
-```
+# `01`
 
-Built an offline RAG system for IT query resolution.
+## `LOCAL AI KNOWLEDGE ASSISTANT`
 
-### `PIPELINE`
+`GENERATIVE AI`
 
 ```text
-DOCUMENTS
-    ↓
-CHUNKING
-    ↓
-EMBEDDINGS
-    ↓
-FAISS + BM25
-    ↓
-RETRIEVED CONTEXT
-    ↓
+CORE
 MISTRAL 7B
-    ↓
-GROUNDED RESPONSE
+
+RETRIEVAL
+FAISS + BM25
+
+EMBEDDINGS
+SENTENCE TRANSFORMERS
+
+RUNTIME
+LLAMA.CPP
 ```
 
-### `VALIDATION`
+A local AI assistant combining general conversation with document-aware RAG.
 
-`92% semantic alignment score`
+**SYSTEMS**
 
-using contextual ROUGE evaluation.
+`Mistral 7B`
+`RAG`
+`FAISS`
+`BM25`
+`Sentence Transformers`
+`Streamlit`
 
-**CORE:** `Mistral 7B` `FAISS` `BM25` `Sentence Transformers` `RAG`
+<a href="https://github.com/aathiabhishek">
+<img src="https://img.shields.io/badge/OPEN_SYSTEM-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
----
+</td>
 
-# `02 // VISION CORE`
+<td width="50%" valign="top">
 
-### `REAL-TIME SURGICAL TOOL DETECTION`
+# `02`
+
+## `SURGICAL VISION ENGINE`
+
+`COMPUTER VISION`
 
 ```text
-STATUS        ● OPERATIONAL
-MODELS        YOLOv8 / YOLOv9
-DATA          3,000+ IMAGES
-VIDEO         500+ MINUTES
-TASK          MULTI-CLASS OBJECT DETECTION
+MODEL
+YOLOv8 / YOLOv9
+
+DATA
+3,000+ IMAGES
+
+VIDEO
+500+ MINUTES
+
+mAP@0.5
+99.35%
 ```
 
-Built and optimized a computer vision pipeline for surgical tool detection.
+Real-time surgical tool detection with custom preprocessing, augmentation and Streamlit visualization.
 
-### `PERFORMANCE`
+**SYSTEMS**
+
+`YOLOv8`
+`YOLOv9`
+`Computer Vision`
+`COCO → YOLO`
+`Streamlit`
+
+<a href="https://github.com/aathiabhishek">
+<img src="https://img.shields.io/badge/OPEN_SYSTEM-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+# `03`
+
+## `TUMOR DETECTION ENGINE`
+
+`DEEP LEARNING`
 
 ```text
-PEAK mAP@0.5
+TASK
+MRI CLASSIFICATION
 
-████████████████████████████████████████████ 99.35%
+ARCHITECTURES
+CNN / MOBILENETV2
+RESNET / VGG16
+AUTOENCODER
+
+PEAK ACCURACY
+94.2%
 ```
 
-Included:
+Benchmarked six deep-learning architectures for multi-class brain MRI classification.
 
-* COCO → YOLO dataset conversion
-* Image augmentation
-* YOLOv8 / YOLOv9 comparison
-* Real-time inference
-* Streamlit dashboard
-* Live video testing
+**SYSTEMS**
 
-**CORE:** `YOLOv8` `YOLOv9` `PyTorch` `Computer Vision` `Streamlit`
+`TensorFlow`
+`Keras`
+`MobileNetV2`
+`CNN`
+`Streamlit`
 
----
+<a href="https://aathiabhishek.github.io/aathi-portfolio/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
 
-# `03 // MEDICAL VISION CORE`
+</td>
 
-### `DEEP LEARNING TUMOR DETECTION ENGINE`
+<td width="50%" valign="top">
+
+# `04`
+
+## `YELP SENTIMENT ENGINE`
+
+`NLP / DEEP LEARNING`
 
 ```text
-STATUS        ● OPERATIONAL
-DATA          BRAIN MRI
-CLASSES       4
-ARCHITECTURES 6
-MODEL         MOBILENETV2
+DATA
+542K+ REVIEWS
+
+MODELS
+BiLSTM
+CNN
+Simple RNN
+
+PEAK ACCURACY
+87.58%
+
+F1
+0.728
 ```
 
-### `ARCHITECTURE LAB`
+End-to-end sentiment analysis pipeline with preprocessing, tokenization, sequence padding, model benchmarking and Streamlit inference.
 
-```text
-CUSTOM CNN
-     │
-     ├── HYPERPARAMETER-TUNED CNN
-     │
-     ├── MOBILENETV2
-     │
-     ├── RESNET50
-     │
-     ├── VGG16
-     │
-     └── AUTOENCODER
-```
+**SYSTEMS**
 
-### `PEAK TEST ACCURACY`
+`TensorFlow`
+`Keras`
+`NLP`
+`BiLSTM`
+`CNN`
+`RNN`
 
-```text
-██████████████████████████████████████ 94.2%
-```
+<a href="https://github.com/aathiabhishek">
+<img src="https://img.shields.io/badge/OPEN_SYSTEM-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-Built an interactive Streamlit application supporting:
+</td>
 
-`Image Upload → Model Selection → Confidence → Class Probabilities → Prediction Report`
+</tr>
 
-**CORE:** `TensorFlow` `Keras` `MobileNetV2` `CNN` `Streamlit`
-
----
-
-# `04 // NLP CORE`
-
-### `LARGE-SCALE SENTIMENT ANALYSIS ENGINE`
-
-```text
-STATUS        ● OPERATIONAL
-DATA          542K+ YELP REVIEWS
-TASK          MULTI-CLASS SENTIMENT
-MODELS        CNN / RNN / LSTM
-INTERFACE     STREAMLIT
-```
-
-### `NEURAL ARCHITECTURE LAB`
-
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│   CNN       → QUICK SCANNER             │
-│   RNN       → SIMPLE READER             │
-│   LSTM      → DEEP READER               │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-### `RESULT`
-
-```text
-PEAK TEST ACCURACY     87.58%
-F1 SCORE                0.728
-TRAINING DATA           433K+
-TEST DATA               108K+
-```
-
-Built an end-to-end NLP pipeline covering:
-
-`Cleaning → Tokenization → Sequence Padding → Training → Validation → Evaluation → Deployment`
-
-**CORE:** `Python` `TensorFlow` `Keras` `NLP` `CNN` `RNN` `LSTM`
+</table>
 
 ---
 
 <div align="center">
 
-## `◉ SYSTEM // 07`
+# `◉ SYSTEM // 07`
 
-# `EDUCATION MATRIX`
+## `AI PIPELINE`
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  GEORGE BROWN POLYTECHNIC                                   │
-│  Ontario Graduate Certificate — Applied AI Solutions         │
-│  Toronto, Canada | 2025                                      │
-│                                                              │
-│  GEORGE BROWN POLYTECHNIC                                   │
-│  Ontario Graduate Certificate — Mobile Application           │
-│  Development and Strategy | Toronto, Canada | 2024            │
-│                                                              │
-│  ANNA UNIVERSITY                                             │
-│  Bachelor of Engineering — Computer Science & Engineering    │
-│  India | 2022                                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                         ┌───────────────────┐
+                         │     RAW DATA      │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   DATA ENGINE     │
+                         │ ETL / PREPROCESS  │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   FEATURE CORE    │
+                         │ ENGINEERING / SQL │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                    ┌─────────────────────────────┐
+                    │       MODEL ENGINE          │
+                    │ ML / DL / LLM / CV          │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   EVALUATION      │
+                         │ METRICS / TESTING │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │ DEPLOYMENT CORE   │
+                         │ API / STREAMLIT   │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │ MONITOR / IMPROVE │
+                         └───────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-## `◉ SYSTEM // 08`
+# `◉ SYSTEM // 08`
 
-# `GITHUB TELEMETRY`
+## `EDUCATION CORE`
 
-<img src="https://github-readme-stats.vercel.app/api?username=aathiabhishek&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=00000000"/>
+</div>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+### `GEORGE BROWN POLYTECHNIC`
+
+**Ontario Graduate Certificate**
+
+Applied AI Solutions Development
+
+`2025`
+
+</td>
+
+<td align="center">
+
+### `GEORGE BROWN POLYTECHNIC`
+
+**Ontario Graduate Certificate**
+
+Mobile Application Development & Strategy
+
+`2024`
+
+</td>
+
+<td align="center">
+
+### `ANNA UNIVERSITY`
+
+**Bachelor of Engineering**
+
+Computer Science & Engineering
+
+`2022`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# `◉ SYSTEM // 09`
+
+## `LIVE TELEMETRY`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathiabhishek&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aathiabhishek&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF"/>
 
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aathiabhishek&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=aathiabhishek&hide_border=true&background=00000000&ring=00E5FF&fire=FF3D00&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
@@ -531,28 +711,67 @@ Built an end-to-end NLP pipeline covering:
 
 <div align="center">
 
-## `◉ SYSTEM // 09`
+# `◉ SYSTEM // 10`
 
-# `CURRENT DIRECTIVE`
+## `CURRENT DIRECTIVE`
 
 </div>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+`01`
+
+**AI / ML ENGINEERING**
+
+</td>
+
+<td align="center">
+
+`02`
+
+**GENERATIVE AI**
+
+</td>
+
+<td align="center">
+
+`03`
+
+**ML SYSTEM DESIGN**
+
+</td>
+
+<td align="center">
+
+`04`
+
+**MLOPS / CLOUD**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                     CURRENT OBJECTIVES                       ║
+║                    J.A.R.V.I.S. STATUS                       ║
 ║                                                              ║
-║  [01] MACHINE LEARNING ENGINEERING                           ║
+║   NEURAL CORE                  ● ONLINE                      ║
+║   MACHINE LEARNING             ● ONLINE                      ║
+║   GENERATIVE AI                ● ONLINE                      ║
+║   COMPUTER VISION              ● ONLINE                      ║
+║   DATA ENGINE                  ● ONLINE                      ║
+║   DEPLOYMENT CORE              ● READY                       ║
 ║                                                              ║
-║  [02] GENERATIVE AI + RAG                                   ║
-║                                                              ║
-║  [03] COMPUTER VISION                                        ║
-║                                                              ║
-║  [04] ML SYSTEM DESIGN                                      ║
-║                                                              ║
-║  [05] MLOPS + CLOUD ENGINEERING                             ║
-║                                                              ║
-║  [06] PRODUCTION-READY AI SYSTEMS                           ║
+║                    NEXT MISSION: AI / ML                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -561,28 +780,30 @@ Built an end-to-end NLP pipeline covering:
 
 <div align="center">
 
-## `◉ SYSTEM // 10`
+# `◉ SYSTEM // 11`
 
-# `CONNECT`
+## `CONNECTION TERMINAL`
+
+<br>
 
 <a href="https://aathiabhishek.github.io/aathi-portfolio/">
-<img src="https://img.shields.io/badge/◉%20PORTFOLIO-00E5FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aathi-abhishek/">
-<img src="https://img.shields.io/badge/◉%20LINKEDIN-00E5FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:aathiabhishek2001@gmail.com">
-<img src="https://img.shields.io/badge/◉%20EMAIL-00E5FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/EMAIL-FF3D00?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001E27,50:07141A,100:050505&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:002833,50:06151B,100:020406&animation=fadeIn"/>
 
-### `J.A.R.V.I.S. CORE // ONLINE`
+### `AATHI ABHISHEK // AI / ML ENGINEER`
 
-`BUILD INTELLIGENT SYSTEMS. ENGINEER WITH PURPOSE.`
+`SYSTEM ONLINE • READY FOR NEXT MISSION`
 
 </div>
