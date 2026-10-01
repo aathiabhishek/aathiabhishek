@@ -215,7 +215,7 @@ Seaborn
 
 <div align="center">
 
-## `03 // PAST EXPERIENCE`
+## `03 // EXPERIENCE`
 
 ### `MISSION LOG`
 
