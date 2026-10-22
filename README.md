@@ -33,7 +33,7 @@ I'm **Aathi Abhishek Thiagarajan**, an AI/ML Engineer who enjoys building end-to
 
 ---
 
-## 🌈 Tech Stack
+## Tech Stack
 
 <div align="center">
 
