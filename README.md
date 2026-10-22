@@ -94,19 +94,6 @@ A privacy-preserving assistant designed to run locally, without external API cal
 
 ---
 
-### ⚡ Predictive Maintenance — Kinectrics
-
-Built a predictive-maintenance anomaly-detection platform using **1.19M+ SCADA records** and **84 operational features**.
-
-- Benchmarked **PatchTST, MTAD-GAT, GDN, GDFormer, and TranAD**.
-- Built an LLM diagnostics assistant with OpenAI and LangChain to translate anomaly statistics into plain-language health assessments and maintenance recommendations.
-- Served models through REST APIs, a Dockerized Streamlit app, and a turbine telemetry dashboard.
-
-**Stack:** Python · PyTorch · TensorFlow · OpenAI · LangChain · Streamlit · REST APIs · Docker
-
-
----
-
 ### 🫁 COVID-19 CT Scan Classifier
 
 A PyTorch image classifier for normal, COVID-19-positive, and non-informative chest CT slices.
