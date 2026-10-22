@@ -10,26 +10,25 @@
 
 <br>
 
-```text id="v9v1v0"
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   AATHI.AI                                      SYSTEM // 001   │
-│                                                                  │
-│   ────────────────────────────────────────────────────────────   │
-│                                                                  │
-│       MACHINE LEARNING        ● ONLINE                           │
-│       GENERATIVE AI           ● ONLINE                           │
-│       COMPUTER VISION         ● ONLINE                           │
-│       MLOPS                   ● READY                            │
-│                                                                  │
-│   ────────────────────────────────────────────────────────────   │
-│                                                                  │
-│                 ALL SYSTEMS OPERATIONAL                         │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   AATHI.AI                                    SYSTEM // 001  │
+│   ────────────────────────────────────────────────────────   │
+│                                                              │
+│   MACHINE LEARNING          ● ONLINE                         │
+│   GENERATIVE AI             ● ONLINE                         │
+│   COMPUTER VISION           ● ONLINE                         │
+│   MLOPS                     ● READY                          │
+│                                                              │
+│   ────────────────────────────────────────────────────────   │
+│                                                              │
+│                   ALL SYSTEMS OPERATIONAL                    │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-**Building end-to-end AI/ML systems across Machine Learning, Deep Learning, Generative AI, Computer Vision, RAG, and predictive analytics.**
+**Building deep learning, time-series anomaly detection, NLP and generative AI systems, with a focus on privacy-conscious local AI.**
 
 <br>
 
@@ -37,15 +36,17 @@
 <img src="https://img.shields.io/badge/PORTFOLIO-8BE7FF?style=for-the-badge&logoColor=000000"/>
 </a>
 
- 
-
 <a href="https://www.linkedin.com/in/aathi-abhishek/">
 <img src="https://img.shields.io/badge/LINKEDIN-E8F7FA?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
+<a href="mailto:aathiabhishek2001@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8BE7FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
 <br><br>
 
-`MACHINE LEARNING`   `GENAI`   `COMPUTER VISION`   `MLOPS`
+`MACHINE LEARNING`   `GENAI`   `COMPUTER VISION`   `MLOPS`
 
 </div>
 
@@ -59,20 +60,20 @@
 
 ### 👋 Hi, I'm Aathi Abhishek Thiagarajan
 
-I'm an **AI/ML Engineer** focused on building end-to-end machine learning systems — from data preprocessing and feature engineering to model development, evaluation, retrieval systems, and interactive applications.
+I'm an **AI/ML Engineer** based in Toronto. I build end-to-end machine learning systems, from data pipelines and model benchmarking to retrieval systems, REST APIs and interactive Streamlit apps.
 
-My work spans:
+At Kinectrics I built a predictive-maintenance platform benchmarking five transformer and graph-based models on **1.19M+ SCADA records**. Outside work I build offline RAG and speech-translation systems with **Llama 3.1, FAISS, Whisper and MarianMT**.
 
-```text id="y3zj8x"
-Machine Learning      → Predictive Modeling • Anomaly Detection • Classification
-Deep Learning         → CNNs • RNNs • Transformers
-Generative AI         → LLMs • RAG • Hybrid Retrieval
-Computer Vision       → YOLO • Image Classification • Object Detection
-Data & Analytics      → Python • SQL • Feature Engineering
-ML Engineering        → Model Pipelines • Evaluation • Deployment
+```text
+Machine Learning      > Predictive Modeling . Anomaly Detection . Classification
+Deep Learning         > CNNs . RNNs . LSTMs . Transformers
+Generative AI         > LLMs . RAG . Hybrid Retrieval . Prompt Engineering
+Computer Vision       > YOLO . Image Classification . Object Detection
+NLP & Speech          > Sentiment Analysis . Translation . Speech-to-Text
+ML Engineering        > Pipelines . Evaluation . REST APIs . Docker
 ```
 
-Currently focused on **production-oriented AI/ML engineering**, ML system design, and building reliable AI applications.
+📄 **Open to AI / ML Engineer roles.** See my [portfolio](https://aathiabhishek.github.io/aathi-portfolio/) for details.
 
 ---
 
@@ -90,23 +91,24 @@ Currently focused on **production-oriented AI/ML engineering**, ML system design
 
 ### 🧠 Machine Learning & Deep Learning
 
-```text id="v1p4yx"
+```text
 Python
 PyTorch
 TensorFlow
 Keras
 Scikit-learn
+XGBoost . LightGBM . CatBoost
+Random Forest
 
-CNN
-RNN
-LSTM
+CNN . RNN . LSTM
 Transformers
 Anomaly Detection
 Time-Series Modeling
 
-Model Evaluation
+Feature Engineering
 Cross-Validation
 Hyperparameter Tuning
+(GridSearchCV, Keras Tuner)
 ```
 
 </td>
@@ -115,19 +117,19 @@ Hyperparameter Tuning
 
 ### 🤖 Generative AI & NLP
 
-```text id="d6l6mm"
-Mistral 7B
-Llama.cpp
+```text
 LLMs
+Llama 3.1
+OpenAI API
 RAG
 LangChain
 FAISS
-BM25
+BM25 Hybrid Search
+llama.cpp
 Sentence Transformers
-
-Hybrid Retrieval
-Semantic Search
-NLP Preprocessing
+Prompt Engineering
+Whisper . MarianMT
+NLP . Tokenization
 ```
 
 </td>
@@ -138,31 +140,34 @@ NLP Preprocessing
 
 ### 👁️ Computer Vision
 
-```text id="v0u1jl"
+```text
 YOLOv8
 YOLOv9
 Object Detection
 Image Classification
 Image Augmentation
-COCO → YOLO
-Real-Time Inference
+COCO > YOLO
+Transfer Learning
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ ML Engineering & Deployment
+### ⚙️ MLOps & Engineering
 
-```text id="v8my5w"
+```text
 Docker
-Kubernetes
 MLflow
-Google Cloud Platform
-Vertex AI
 REST APIs
 Streamlit
-CI/CD
+ETL / ELT Pipelines
+Git
+
+Familiar with:
+CI/CD (GitHub Actions)
+GCP . Vertex AI
+Kubernetes
 ```
 
 </td>
@@ -173,30 +178,28 @@ CI/CD
 
 ### 📊 Data
 
-```text id="q0e9x4"
+```text
 Python
 SQL
 Pandas
 NumPy
 MySQL
 MongoDB
-ETL / ELT
-Feature Engineering
+JavaScript . Swift
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛠️ Tools
+### 🛠️ Visualization & Tools
 
-```text id="8v6qcg"
-Git
-GitHub
-VS Code
-Tableau
+```text
 Matplotlib
 Seaborn
+Tableau
+Git
+GitHub
 ```
 
 </td>
@@ -207,7 +210,7 @@ Seaborn
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,kubernetes,gcp,mysql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,kubernetes,gcp,mysql,mongodb,git,github"/>
 
 </div>
 
@@ -221,66 +224,59 @@ Seaborn
 
 </div>
 
-## ⚡ Kinectrics — AI/ML Engineer
+## ⚡ Kinectrics: AI/ML Engineer
 
-**Fall Co-op · Toronto, ON · 2025**
+**Fall Co-op · Toronto, ON · Sep 2025 – Dec 2025**
 
-```text id="3i3b7g"
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                    PREDICTIVE MAINTENANCE                    │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   DATA             1.19M+ SCADA RECORDS                     │
-│   FEATURES         84 OPERATIONAL FEATURES                  │
-│                                                              │
-│   MODELS           PatchTST                                 │
-│                    MTAD-GAT                                 │
-│                    GDN                                       │
-│                    GDFormer                                  │
-│                    TranAD                                    │
-│                                                              │
-│   GENAI            LLM + LangChain                          │
-│   DEPLOYMENT       REST APIs + Docker + Streamlit           │
+│   DATA              1.19M+ SCADA RECORDS                     │
+│   FEATURES          84 OPERATIONAL FEATURES                  │
+│   MODELS            PatchTST                                 │
+│                     MTAD-GAT                                 │
+│                     GDN                                      │
+│                     GDFormer                                 │
+│                     TranAD                                   │
+│   GENAI             LLM + LangChain                          │
+│   DEPLOYMENT        REST APIs + Docker + Streamlit           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-* Engineered an AI-driven predictive maintenance and fault-detection platform using **1.19M+ SCADA telemetry records and 84 operational features**.
-* Developed preprocessing and feature-engineering pipelines for multivariate time-series anomaly detection.
-* Benchmarked deep learning approaches including **PatchTST, MTAD-GAT, GDN, GDFormer, and TranAD**.
-* Developed a conversational AI layer using **LLMs and LangChain** to translate multi-sensor anomaly analysis into plain-language health insights.
-* Designed backend frameworks to serve ML models through **REST APIs and Streamlit dashboards using Docker**.
-* Built real-time telemetry monitoring for pressure, vibration, and temperature.
+* Built a predictive-maintenance anomaly-detection platform, benchmarking **PatchTST, MTAD-GAT, GDN, GDFormer and TranAD** on **1.19M+ SCADA records**.
+* Created an LLM diagnostics assistant with **OpenAI and LangChain** that turns sensor anomaly stats into plain-language health assessments and maintenance recommendations.
+* Served the models through **REST APIs, a Dockerized Streamlit app** and a turbine telemetry dashboard.
 
 <details>
 <summary><b>▸ TECHNICAL SYSTEM</b></summary>
 
 <br>
 
-`Python` · `PyTorch` · `TensorFlow` · `LLMs` · `LangChain` · `REST APIs` · `Docker` · `Streamlit`
+`Python` · `PyTorch` · `TensorFlow` · `OpenAI` · `LangChain` · `Streamlit` · `REST APIs` · `Docker` · `Git`
 
 </details>
 
 ---
 
-## ⚡ Owujupe — Full Stack & iOS Developer
+## ⚡ Owujupe: Full Stack & iOS Developer
 
-**Fall Co-op · Toronto, ON · 2024**
+**Fall Co-op · Toronto, ON · Sep 2024 – Dec 2024**
 
-* Built Express.js pipelines for high-volume API feeds.
-* Migrated legacy databases to **MySQL**.
-* Engineered secure authentication infrastructure.
-* Worked across **JavaScript, Express.js, MySQL, MongoDB, Swift, and Firebase**.
+* Integrated third-party API data using **Node.js and Express.js**, storing records in **MongoDB** before transitioning to **PostgreSQL**.
+* Built a structured UI to browse records in paginated tables and visualize data distributions, including record counts by city.
+
+`JavaScript` · `Express.js` · `MySQL` · `MongoDB` · `Swift` · `Firebase` · `Git`
 
 ---
 
-## ⚡ Simsona Technology — System Administrator
+## ⚡ Simsona Technology: System Administrator
 
-**2022 – 2023**
+**India · May 2022 – Aug 2023**
 
-* Managed enterprise computing infrastructure.
-* Automated deployment workflows across production databases.
-* Worked across **MySQL, database management, network administration, and infrastructure maintenance**.
+* Maintained IT infrastructure, performed system troubleshooting, and supported **MySQL** database administration, deployment and recovery.
 
 ---
 
@@ -306,124 +302,171 @@ Seaborn
 
 ### `KNOWLEDGE CORE // GENERATIVE AI`
 
-A local AI assistant combining general conversation with **document-aware RAG** using a locally running Mistral 7B model.
+A privacy-preserving offline AI assistant that runs fully on-device with no external API calls.
 
-```text id="jqx3nd"
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│                      KNOWLEDGE CORE                          │
+│                        KNOWLEDGE CORE                        │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   MODEL          Mistral 7B                                 │
-│   RUNTIME        Llama.cpp                                  │
-│   VECTOR SEARCH  FAISS                                      │
-│   KEYWORD SEARCH BM25                                       │
-│   EMBEDDINGS     Sentence Transformers                      │
-│                                                              │
-│   MODE           General Chat + Document RAG                 │
+│   MODEL             Llama 3.1 8B Instruct (4-bit)            │
+│   RUNTIME           llama.cpp (fully offline)                │
+│   VECTOR SEARCH     FAISS                                    │
+│   KEYWORD SEARCH    BM25                                     │
+│   EMBEDDINGS        Sentence Transformers                    │
+│   EVAL              27 questions // 69.4% ROUGE-1            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Highlights
+* 🧠 Local **Llama 3.1 8B Instruct** (4-bit) inference using `llama.cpp`
+* 🔎 Hybrid retrieval: **Sentence Transformers + FAISS** vector search with **BM25** keyword retrieval
+* 📚 Grounding prompt restricts answers to retrieved context, requires **source attribution**, and returns a fixed fallback when the answer is missing
+* ✅ Evaluated on a hand-built 27-question set: **69.4% ROUGE-1 context recall**, all 3 out-of-scope questions declined
 
-* 🧠 Local **Mistral 7B** inference using `llama.cpp`
-* 🔎 Hybrid retrieval using **FAISS + BM25**
-* 🧩 Semantic search using **Sentence Transformers**
-* 📄 PDF, DOCX, TXT and Markdown ingestion
-* ✂️ Document chunking and context construction
-* 📚 Source-aware responses
-* 🎛️ Configurable retrieval depth
-* 💬 General chat mode without document upload
-* 🛡️ Retrieval and response guardrails
+**Stack:** `Python` · `Streamlit` · `Llama 3.1` · `llama.cpp` · `FAISS` · `BM25` · `Sentence Transformers`
 
-**Stack:** `Python` · `Streamlit` · `Mistral 7B` · `Llama.cpp` · `FAISS` · `BM25` · `Sentence Transformers`
+[![GitHub](https://img.shields.io/badge/GITHUB-8BE7FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/aathiabhishek/local-ai-knowledge-assistant)
 
 ---
 
-## 🏥 Surgical Object Detection
+## 🫁 COVID-19 CT Scan Classifier
+
+### `MEDICAL IMAGING CORE // DEEP LEARNING`
+
+A PyTorch image classifier that sorts chest CT slices into normal, COVID-19 positive, and non-informative.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     MEDICAL IMAGING CORE                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   IMAGES            19,685                                   │
+│   CLASSES           Normal / COVID-19 / Non-informative      │
+│   MODEL             MobileNetV3-Large (transfer learning)    │
+│   TEST ACCURACY     99.76%                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+* 🔄 Transfer learning on **MobileNetV3-Large**, fine-tuned on **19,685 images**
+* 🧪 Random crops and flips, ImageNet normalisation, fixed-seed **70/15/15** split for reproducible results
+* 📈 **99.76% test accuracy**
+* 🖥️ Streamlit app with file upload, camera input, per-class confidence scores, and light and dark modes
+* ⚠️ The split is per image rather than per patient, so accuracy is likely optimistic
+
+**Stack:** `Python` · `PyTorch` · `MobileNetV3` · `Transfer Learning` · `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/GITHUB-8BE7FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/aathiabhishek/covid-19_CT)
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-E8F7FA?style=for-the-badge&logoColor=000000)](https://covid-19ct.streamlit.app/)
+
+---
+
+## 🏥 Surgical Tool Detection
 
 ### `VISION CORE // COMPUTER VISION`
 
-Deep learning computer vision system for identifying multiple surgical object classes.
+Object detection for multi-class surgical instruments, benchmarking three YOLO models.
 
-```text id="q48qkt"
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│                       VISION CORE                            │
+│                         VISION CORE                          │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   IMAGES           3,000+                                   │
-│   VIDEO            500+ MINUTES                             │
-│   OBJECT CLASSES   MULTI-CLASS                              │
-│                                                              │
-│   MODEL            YOLOv9c                                  │
-│   mAP@0.5          99.35%                                   │
+│   IMAGES            3,000+ ANNOTATED                         │
+│   MODELS            YOLOv8n / YOLOv8m / YOLOv9c              │
+│   BEST MODEL        YOLOv9c                                  │
+│   PRECISION         97.69%                                   │
+│   RECALL            97.86%                                   │
+│   mAP@0.5           99.35%                                   │
+│   mAP@0.5:0.95      89.24%                                   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Highlights
+* 📷 Trained **YOLOv8n, YOLOv8m and YOLOv9c** on **3,000+ annotated images**
+* 🔄 COCO-to-YOLO dataset conversion and image augmentation
+* 📊 Best model **YOLOv9c**: 97.69% precision, 97.86% recall, **99.35% mAP@0.5**
+* 🎥 Streamlit dashboard that runs the detector on uploaded video (proof of concept)
 
-* 📷 **3,000+ annotated images**
-* 🎥 **500+ minutes of multi-class operative video**
-* ⚡ YOLOv8 / YOLOv9 architecture benchmarking
-* 🔄 COCO → YOLO dataset conversion
-* 🧪 Advanced image augmentation
-* 📊 **99.35% mAP@0.5**
-* 🖥️ Interactive Streamlit dashboard
-* 🎥 Live video inference testing
+**Stack:** `Python` · `PyTorch` · `YOLOv8` · `YOLOv9` · `Streamlit`
 
-**Stack:** `Python` · `PyTorch` · `YOLOv8` · `YOLOv9` · `Computer Vision` · `Streamlit`
+[![GitHub](https://img.shields.io/badge/GITHUB-8BE7FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/aathiabhishek/SurgiVision-AI)
 
 ---
 
-## 🧠 Deep Learning Tumor Detection Engine
+## 🗣️ Local Speech Translation (LinguaFlow)
+
+### `SPEECH CORE // NLP`
+
+A fully local English <-> French speech translation app with no external API calls after the one-time model download.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                         SPEECH CORE                          │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   PIPELINE          Whisper > MarianMT > Piper TTS           │
+│   LANGUAGES         English <-> French                       │
+│   API CALLS         NONE (fully local)                       │
+│   BLEU              39.1 / 35.4                              │
+│   chrF              63.8 / 62.6                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+* 🔗 Chains **Whisper** speech recognition, **MarianMT** translation and **Piper** text-to-speech
+* ⚙️ State-machine pipeline in Streamlit with background TTS, so translated text appears while audio is synthesized
+* ⏱️ Model caching and per-stage latency metrics
+* 🎙️ Voice and typed input, editable transcript, one-click language swapping
+* 📊 sacreBLEU on 500 WMT14 sentences: **39.1 / 35.4 BLEU** and **63.8 / 62.6 chrF** (EN to FR / FR to EN)
+
+**Stack:** `Python` · `Whisper` · `MarianMT` · `Piper TTS` · `sacreBLEU` · `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/GITHUB-8BE7FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/aathiabhishek/linguaflow-speech-translation)
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-E8F7FA?style=for-the-badge&logoColor=000000)](https://linguaflow-speech-translation.streamlit.app/)
+
+---
+
+## 🧠 Tumor Detection Engine
 
 ### `MEDICAL CORE // DEEP LEARNING`
 
-Developed and evaluated six deep-learning architectures for **4-class brain MRI classification**.
+Six deep learning architectures evaluated for **4-class brain MRI classification**.
 
-```text id="d2g7zq"
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│                       MEDICAL CORE                           │
+│                         MEDICAL CORE                         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   TRAINING DATA      5,712 IMAGES                           │
-│   TEST DATA          1,311 IMAGES                           │
-│   CLASSES            4                                       │
-│                                                              │
-│   ARCHITECTURES      CNN / MobileNetV2 / ResNet50           │
-│                      VGG16 / Autoencoders                    │
-│                                                              │
-│   PEAK ACCURACY      94.2%                                  │
+│   TRAINING DATA     5,712 IMAGES                             │
+│   TEST DATA         1,311 IMAGES                             │
+│   CLASSES           4                                        │
+│   ARCHITECTURES     Custom CNN / Tuned CNN                   │
+│                     MobileNetV2 / ResNet50                   │
+│                     VGG16 / Autoencoder                      │
+│   PEAK ACCURACY     94.2%                                    │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Highlights
+* 🧪 Image augmentation and normalization to improve generalization
+* 🎯 **Keras Tuner** for CNN hyperparameter tuning
+* 📈 Fine-tuned **MobileNetV2** performed best: **94.2% accuracy**, 93% precision, 94% recall, 93% F1
 
-* 🧠 Custom CNN
-* ⚙️ Hyperparameter-tuned CNN
-* 📱 MobileNetV2
-* 🏗️ ResNet50
-* 🖼️ VGG16
-* 🔄 Autoencoders
-* 🧪 Image preprocessing and augmentation
-* 🎯 Keras Tuner optimization
-* 📈 **94.2% peak test accuracy**
-* 🖥️ Streamlit inference application
-* 📊 Confidence scores and class probabilities
+**Stack:** `Python` · `TensorFlow` · `Keras` · `MobileNetV2` · `ResNet50` · `VGG16` · `Keras Tuner`
 
-**Stack:** `Python` · `TensorFlow` · `Keras` · `MobileNetV2` · `ResNet50` · `VGG16` · `Streamlit`
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-E8F7FA?style=for-the-badge&logoColor=000000)](https://brain-tumor-classification-models.streamlit.app/)
 
 ---
 
-## ⭐ Large-Scale Sentiment Analysis Engine
+## ⭐ Yelp Sentiment Analyzer
 
 ### `NLP CORE // DEEP LEARNING`
 
-End-to-end sentiment classification system benchmarking multiple neural architectures across **542K+ Yelp reviews**.
+End-to-end sentiment classification benchmarking three neural architectures across **542K+ Yelp reviews**.
 
-```text id="j3e3bx"
+```text
                  SENTIMENT ENGINE
 
        ┌─────────────┐
@@ -444,36 +487,39 @@ End-to-end sentiment classification system benchmarking multiple neural architec
        SENTIMENT OUTPUT
 ```
 
-### Models
-
-```text id="u4w3e9"
-Simple RNN     → "Simple Reader"
-CNN            → "Quick Scanner"
-BiLSTM         → "Deep Reader"
-```
-
-### Results
-
-* 📝 **542K+ Yelp reviews**
-* 🧹 End-to-end NLP preprocessing pipeline
-* 🔤 Tokenization and sequence padding
+* 🧹 Consistent preprocessing, tokenization and sequence padding
+* ⚖️ Class-weighted training
 * 📊 433K+ training / 108K+ test samples
-* 🧠 CNN / RNN / LSTM benchmarking
-* 📈 **87.58% peak test accuracy**
-* 🎯 **0.728 F1-score**
-* 🖥️ Interactive Streamlit deployment
+* 📈 **87.58% peak test accuracy**, **0.728 F1-score**
+* 🖥️ Real-time inference in Streamlit with multi-class sentiment and model confidence, to help triage customer feedback
 
 **Stack:** `Python` · `TensorFlow` · `Keras` · `NLP` · `CNN` · `RNN` · `BiLSTM` · `Streamlit`
+
+[![GitHub](https://img.shields.io/badge/GITHUB-8BE7FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/aathiabhishek/yelp-review-mood-checker)
 
 ---
 
 <div align="center">
 
-## `05 // ML ENGINEERING WORKFLOW`
+## `05 // EDUCATION`
 
 </div>
 
-```text id="i7r4gv"
+| Program | Institution | Period |
+|---|---|---|
+| Ontario Graduate Certificate in **Applied AI Solutions Development** | George Brown Polytechnic, Toronto | Jan 2025 – Dec 2025 |
+| Ontario Graduate Certificate in **Mobile Application Development and Strategy** | George Brown Polytechnic, Toronto | Jan 2024 – Dec 2024 |
+| Bachelor of Engineering in **Computer Science and Engineering** | Anna University, India | Aug 2018 – Jul 2022 |
+
+---
+
+<div align="center">
+
+## `06 // ML ENGINEERING WORKFLOW`
+
+</div>
+
+```text
                     ┌──────────────────┐
                     │    RAW DATA      │
                     └────────┬─────────┘
@@ -481,7 +527,7 @@ BiLSTM         → "Deep Reader"
                              ▼
                     ┌──────────────────┐
                     │ DATA PROCESSING  │
-                    │ CLEAN • TRANSFORM│
+                    │ CLEAN . TRANSFORM│
                     └────────┬─────────┘
                              │
                              ▼
@@ -494,24 +540,19 @@ BiLSTM         → "Deep Reader"
                   ┌──────────────────────┐
                   │      AI ENGINE       │
                   │                      │
-                  │ ML • DL • LLM • CV   │
+                  │ ML . DL . LLM . CV   │
                   └──────────┬───────────┘
                              │
                              ▼
                     ┌──────────────────┐
                     │    EVALUATION    │
-                    │ METRICS • TESTING │
+                    │ METRICS . TESTING│
                     └────────┬─────────┘
                              │
                              ▼
                     ┌──────────────────┐
                     │    DEPLOYMENT    │
-                    │ API • STREAMLIT  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │    MONITORING    │
+                    │ API . STREAMLIT  │
                     └──────────────────┘
 ```
 
@@ -521,7 +562,7 @@ BiLSTM         → "Deep Reader"
 
 <div align="center">
 
-## `06 // GITHUB TELEMETRY`
+## `07 // GITHUB TELEMETRY`
 
 <br>
 
@@ -539,22 +580,22 @@ BiLSTM         → "Deep Reader"
 
 <div align="center">
 
-## `07 // CURRENT DIRECTIVE`
+## `08 // CURRENT DIRECTIVE`
 
-```text id="zv2u8k"
+```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   [01]  AI / ML ENGINEERING                                │
+│   [01]  AI / ML ENGINEERING                                  │
 │                                                              │
-│   [02]  GENERATIVE AI + RAG                               │
+│   [02]  GENERATIVE AI + RAG                                  │
 │                                                              │
-│   [03]  COMPUTER VISION                                   │
+│   [03]  COMPUTER VISION                                      │
 │                                                              │
-│   [04]  ML SYSTEM DESIGN                                 │
+│   [04]  ML SYSTEM DESIGN                                     │
 │                                                              │
-│   [05]  MLOPS + CLOUD                                     │
+│   [05]  MLOPS + CLOUD                                        │
 │                                                              │
-│   [06]  PRODUCTION-ORIENTED AI SYSTEMS                    │
+│   [06]  PRODUCTION-ORIENTED AI SYSTEMS                       │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -565,7 +606,7 @@ BiLSTM         → "Deep Reader"
 
 <div align="center">
 
-## `08 // CONNECTION TERMINAL`
+## `09 // CONNECTION TERMINAL`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=8BE7FF&center=true&vCenter=true&width=700&lines=%3E+CONNECTION+ESTABLISHED;%3E+PORTFOLIO+CHANNEL+READY;%3E+LINKEDIN+CHANNEL+READY;%3E+AWAITING+NEXT+MISSION."/>
 
@@ -575,10 +616,12 @@ BiLSTM         → "Deep Reader"
 <img src="https://img.shields.io/badge/◉_PORTFOLIO-8BE7FF?style=for-the-badge&logoColor=000000"/>
 </a>
 
- 
-
 <a href="https://www.linkedin.com/in/aathi-abhishek/">
 <img src="https://img.shields.io/badge/◉_LINKEDIN-E8F7FA?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="mailto:aathiabhishek2001@gmail.com">
+<img src="https://img.shields.io/badge/◉_EMAIL-8BE7FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 <br><br>
