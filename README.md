@@ -66,10 +66,17 @@ I'm **Aathi Abhishek Thiagarajan**, an AI/ML Engineer who enjoys building end-to
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects — All Projects Visible
 
-<details open>
-<summary><b>🤖 Local AI Knowledge Assistant — Private, Offline RAG</b></summary>
+<div align="center">
+
+<img src="https://img.shields.io/badge/7_PROJECTS-7C3AED?style=for-the-badge" alt="Seven projects"/> <img src="https://img.shields.io/badge/AI_&_ML-06B6D4?style=for-the-badge" alt="AI and ML"/> <img src="https://img.shields.io/badge/GENAI-9333EA?style=for-the-badge" alt="Generative AI"/> <img src="https://img.shields.io/badge/COMPUTER_VISION-DB2777?style=for-the-badge" alt="Computer vision"/>
+
+</div>
+
+Every project summary is visible as you scroll—no collapsed project sections. Links and demo buttons remain clickable.
+
+### 🤖 Local AI Knowledge Assistant — Private, Offline RAG
 
 A privacy-preserving assistant designed to run locally, without external API calls during inference.
 
@@ -84,10 +91,23 @@ A privacy-preserving assistant designed to run locally, without external API cal
 
 <a href="https://github.com/aathiabhishek/local-ai-knowledge-assistant"><img src="https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source"/></a>
 
-</details>
 
-<details>
-<summary><b>🫁 COVID-19 CT Scan Classifier</b></summary>
+---
+
+### ⚡ Predictive Maintenance — Kinectrics
+
+Built a predictive-maintenance anomaly-detection platform using **1.19M+ SCADA records** and **84 operational features**.
+
+- Benchmarked **PatchTST, MTAD-GAT, GDN, GDFormer, and TranAD**.
+- Built an LLM diagnostics assistant with OpenAI and LangChain to translate anomaly statistics into plain-language health assessments and maintenance recommendations.
+- Served models through REST APIs, a Dockerized Streamlit app, and a turbine telemetry dashboard.
+
+**Stack:** Python · PyTorch · TensorFlow · OpenAI · LangChain · Streamlit · REST APIs · Docker
+
+
+---
+
+### 🫁 COVID-19 CT Scan Classifier
 
 A PyTorch image classifier for normal, COVID-19-positive, and non-informative chest CT slices.
 
@@ -99,10 +119,10 @@ A PyTorch image classifier for normal, COVID-19-positive, and non-informative ch
 <a href="https://github.com/aathiabhishek/covid-19_CT"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://covid-19ct.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge" alt="Live demo"/></a>
 
-</details>
 
-<details>
-<summary><b>👁️ Surgical Tool Detection — Computer Vision</b></summary>
+---
+
+### 👁️ Surgical Tool Detection — Computer Vision
 
 Benchmarked YOLOv8n, YOLOv8m, and YOLOv9c on **3,000+ annotated images**.
 
@@ -114,10 +134,10 @@ Included COCO-to-YOLO conversion, image augmentation, and a Streamlit proof-of-c
 
 <a href="https://github.com/aathiabhishek/SurgiVision-AI"><img src="https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source"/></a>
 
-</details>
 
-<details>
-<summary><b>🗣️ LinguaFlow — Local Speech Translation</b></summary>
+---
+
+### 🗣️ LinguaFlow — Local Speech Translation
 
 A local English ↔ French speech pipeline chaining **Whisper → MarianMT → Piper TTS**.
 
@@ -128,10 +148,10 @@ A local English ↔ French speech pipeline chaining **Whisper → MarianMT → P
 <a href="https://github.com/aathiabhishek/linguaflow-speech-translation"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linguaflow-speech-translation.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge" alt="Live demo"/></a>
 
-</details>
 
-<details>
-<summary><b>🧠 Tumor Detection Engine — Brain MRI Classification</b></summary>
+---
+
+### 🧠 Tumor Detection Engine — Brain MRI Classification
 
 Compared six architectures for four-class brain MRI classification using **5,712 training images** and **1,311 test images**.
 
@@ -140,10 +160,10 @@ Compared six architectures for four-class brain MRI classification using **5,712
 
 <a href="https://brain-tumor-classification-models.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge" alt="Live demo"/></a>
 
-</details>
 
-<details>
-<summary><b>⭐ Yelp Sentiment Analyzer</b></summary>
+---
+
+### ⭐ Yelp Sentiment Analyzer
 
 Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 
@@ -154,7 +174,8 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 
 <a href="https://github.com/aathiabhishek/yelp-review-mood-checker"><img src="https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source"/></a>
 
-</details>
+
+---
 
 ---
 
