@@ -85,7 +85,14 @@ A privacy-preserving assistant designed to run locally, without external API cal
 | Model/runtime | Llama 3.1 8B Instruct (4-bit), `llama.cpp` |
 | Retrieval | Sentence Transformers + FAISS vector search and BM25 keyword search |
 | Grounding | Answers from retrieved context, source attribution, fixed fallback for missing answers |
-| Evaluation | 27-question set; 69.4% ROUGE-1 context recall; all 3 out-of-scope questions declined |
+
+
+Ablation & Prompt Optimization History
+System Version	Retrieval Engine Profile	Context Recall	Reranker MRR	Answer Recall	ROUGE-1 F1
+v1 (Baseline)	Naive space-split BM25 + RRF (27-query seed set)	—	—	69.4%	—
+v2 (Two-Stage RAG)	Word-boundary BM25 + Cross-Encoder (gate = -4.5)	98.8%	0.963	90.4%	21.3%
+v3 (Strict Gate)	1-Sentence restriction + strict relevance (gate = -1.5)	98.8%	0.963	85.5%	31.6%
+v4 (Calibrated)	Intent-routing prompt + calibrated gate (gate = -5.0)	98.8%	0.963	92.1%	25.3%
 
 **Stack:** Python · Streamlit · Llama 3.1 · FAISS · BM25 · Sentence Transformers
 
