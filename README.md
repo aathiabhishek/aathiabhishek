@@ -124,6 +124,7 @@ The experiments demonstrate that retrieval optimization, relevance threshold cal
 **Stack:** Python · Streamlit · Llama 3.1 · FAISS · BM25 · Sentence Transformers
 
 <a href="https://github.com/aathiabhishek/local-ai-knowledge-assistant"><img src="https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View source"/></a>
+<a href="https://local-ai-knowledge-assistant.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge" alt="Live demo"/></a>
 
 
 ---
