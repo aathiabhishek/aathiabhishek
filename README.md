@@ -184,18 +184,6 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 
 ---
 
-### ⚡ Wind Turbine Intelligence — Predictive Maintenance
-
-Benchmarked five transformer and graph-based anomaly-detection architectures across **1.19M+ SCADA records** and **84 operational features** during my Kinectrics co-op.
-
-- Connected time-series analysis with LLM-assisted diagnostics.
-- Delivered model outputs through REST APIs, Docker, and Streamlit.
-- Focused on useful maintenance signals and end-to-end engineering.
-
-**Industry work · Kinectrics · Sep–Dec 2025**
-
----
-
 <a id="tech-stack"></a>
 
 ## The toolkit
@@ -267,15 +255,19 @@ Benchmarked five transformer and graph-based anomaly-detection architectures acr
 
 ## 💼 Experience
 
-### Kinectrics — AI/ML Engineer, Fall Co-op
+### RFA Bank of Canada — AI/ML Engineer
 
-📍 Toronto, ON · **Sep 2025 – Dec 2025**
+📍 Toronto, ON · **Oct 2025 – Present** · Client
 
-- Predictive maintenance across 1.19M+ SCADA records and 84 operational features.
-
-- Benchmarking of five anomaly-detection architectures.
-
-- LLM diagnostics assistant and deployment through REST APIs, Docker, and Streamlit.
+- Developed classification and predictive models using Python, Scikit-learn, Random Forest, and XGBoost for financial analytics.
+  
+- Evaluated model performance using precision, recall, F1-score, and ROC-AUC; investigated data drift and prediction quality.
+  
+- Built automated data preprocessing and feature engineering pipelines using Python, Pandas, and SQL.
+  
+- Collaborated on Azure OpenAI integration and NLP-based document processing to automate financial workflows.
+  
+- Supported ML deployment, API testing, and CI/CD pipelines using FastAPI, Docker, Git, and Azure DevOps.
 
 ### Owujupe — Full Stack & iOS Developer, Fall Co-op
 
@@ -287,13 +279,17 @@ Benchmarked five transformer and graph-based anomaly-detection architectures acr
 
 - Built paginated record tables and city-level data visualizations.
 
-### Simsona Technology — System Administrator
+### Credit Suisse — Machine Learning Engineer
 
-📍 India · **May 2022 – Aug 2023**
+📍 Mumbai, India · **Sep 2021 – Aug 2024** · Client
 
-- Maintained IT infrastructure and performed system troubleshooting.
-
-- Supported MySQL database administration, deployment, and recovery.
+- Developed classification, regression, and clustering models using Python and Scikit-learn for financial risk analytics.
+  
+- Built automated data preprocessing and feature engineering pipelines using Python, Pandas, and SQL.
+  
+- Optimized models through cross-validation, hyperparameter tuning, and performance evaluation using precision, recall, and F1-score.
+  
+- Collaborated on REST API integration, model deployment, testing, and troubleshooting in an Agile environment.
 
 ---
 
