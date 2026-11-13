@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://aathiabhishek.github.io/aathi-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-A4F07B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0B1220" alt="Explore portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aathi-abhishek/"><img src="https://img.shields.io/badge/LINKEDIN-70C5ED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B1220" alt="LinkedIn" /></a>
-  <a href="mailto:aathiabhishek2001@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-E8EDF5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1220" alt="Email Aathi" /></a>
+  <a href="https://www.linkedin.com/in/aathi-thiagarajan/"><img src="https://img.shields.io/badge/LINKEDIN-70C5ED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0B1220" alt="LinkedIn" /></a>
+  <a href="mailto:aathiabhishek.thiagarajan@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-E8EDF5?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1220" alt="Email Aathi" /></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <a href="#connect">05 / CONNECT</a>
 </p>
 
-<p align="center"><img src="assets/highlights.svg" width="100%" alt="Selected project metrics: 98.8% context recall; 1.19M+ SCADA records; 99.35% surgical tool mAP at 0.5." /></p>
+<p align="center"><img src="assets/highlights.svg" width="100%" alt="Selected AI project highlights and evaluation metrics." /></p>
 
 <a id="about"></a>
 
@@ -37,7 +37,7 @@ I'm an **AI/ML Engineer in Toronto**, working across generative AI, computer vis
 
 ## The project lab
 
-**Seven projects. Different problems. A shared focus on building complete systems.**
+**Six projects. Different problems. A shared focus on building complete systems.**
 
 [Generative AI](#rag) · [Computer vision](#vision) · [Speech & NLP](#speech)
 
@@ -92,7 +92,6 @@ Evaluated multiple retrieval configurations, relevance thresholds, and prompt st
 **v4 — Calibrated** was selected as the preferred configuration because it achieved the highest measured answer recall (92.1%) while maintaining strong retrieval performance.
 
 The experiments demonstrate that retrieval optimization, relevance threshold calibration, and prompt design can materially affect RAG answer quality without changing the underlying LLM.
-
 
 </details>
 
@@ -162,7 +161,7 @@ Compared six architectures for four-class brain MRI classification using **5,712
 
 - Tuned CNN hyperparameters with Keras Tuner.
 
-- Fine-tuned MobileNetV2 achieved **94.2% accuracy**, 93% precision, 94% recall, and 93% F1.
+- MobileNetV2 achieved **86.27% test accuracy**, **86.52% weighted precision**, **86.27% weighted recall**, and **85.89% weighted F1-score**.
 
 <a href="https://brain-tumor-classification-models.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0EA5E9?style=for-the-badge" alt="Live demo"/></a>
 
@@ -170,13 +169,13 @@ Compared six architectures for four-class brain MRI classification using **5,712
 
 ### ⭐ Yelp Sentiment Analyzer
 
-Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
+Benchmarked CNN, RNN, and LSTM models on **542K+ Yelp reviews**.
 
 - Consistent preprocessing, tokenization, and sequence padding.
 
 - Class-weighted training; 433K+ training and 108K+ test samples.
 
-- Peak test accuracy: **87.58%**; F1-score: **0.728**.
+- Best reported test accuracy: **76.73% (LSTM)**; CNN: **74.15%**; RNN: **70.86%**.
 
 - Streamlit inference with multi-class sentiment and model confidence.
 
@@ -202,7 +201,7 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 
 <img src="https://img.shields.io/badge/FAISS-6D28D9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/BM25-HuggingFace-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BM25-F59E0B?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge"/>
 
@@ -260,14 +259,10 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 📍 Toronto, ON · **Oct 2025 – Present** · Client
 
 - Developed classification and predictive models using Python, Scikit-learn, Random Forest, and XGBoost for financial analytics.
-  
-- Evaluated model performance using precision, recall, F1-score, and ROC-AUC; investigated data drift and prediction quality.
-  
-- Built automated data preprocessing and feature engineering pipelines using Python, Pandas, and SQL.
-  
-- Collaborated on Azure OpenAI integration and NLP-based document processing to automate financial workflows.
-  
-- Supported ML deployment, API testing, and CI/CD pipelines using FastAPI, Docker, Git, and Azure DevOps.
+- Evaluated models using precision, recall, F1-score, and ROC-AUC; investigated production data drift and prediction quality.
+- Built data preprocessing and feature engineering pipelines using Pandas, NumPy, and SQL.
+- Collaborated on Azure OpenAI integration and NLP-based financial document processing.
+- Supported model deployment, API testing, and CI/CD workflows using FastAPI, Docker, Git, and Azure DevOps.
 
 ### Owujupe — Full Stack & iOS Developer, Fall Co-op
 
@@ -284,12 +279,9 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 📍 Mumbai, India · **Sep 2021 – Aug 2024** · Client
 
 - Developed classification, regression, and clustering models using Python and Scikit-learn for financial risk analytics.
-  
-- Built automated data preprocessing and feature engineering pipelines using Python, Pandas, and SQL.
-  
-- Optimized models through cross-validation, hyperparameter tuning, and performance evaluation using precision, recall, and F1-score.
-  
-- Collaborated on REST API integration, model deployment, testing, and troubleshooting in an Agile environment.
+- Automated data preprocessing, feature engineering, and training workflows using Python, Pandas, and SQL.
+- Evaluated and optimized models through cross-validation, hyperparameter tuning, precision, recall, and F1-score.
+- Collaborated on relational database and REST API integration, deployment testing, and troubleshooting in an Agile environment.
 
 ---
 
@@ -303,7 +295,6 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 
 ---
 
-
 ## What I'm exploring next
 
 **Production AI** · RAG evaluation · ML system design · Cloud deployment · CI/CD for ML
@@ -316,6 +307,6 @@ Benchmarked CNN, RNN, and BiLSTM models on **542K+ Yelp reviews**.
 
 **Open to AI / ML Engineer opportunities.** Based in Toronto, Canada.
 
-[Portfolio ↗](https://aathiabhishek.github.io/aathi-portfolio/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/aathi-abhishek/) &nbsp; · &nbsp; [Email ↗](mailto:aathiabhishek2001@gmail.com) &nbsp; · &nbsp; [GitHub ↗](https://github.com/aathiabhishek)
+[Portfolio ↗](https://aathiabhishek.github.io/aathi_thiagarajan-portfolio/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/aathi-thiagarajan/) &nbsp; · &nbsp; [Email ↗](mailto:aathiabhishek.thiagarajan@gmail.com) &nbsp; · &nbsp; [GitHub ↗](https://github.com/aathiabhishek)
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
